@@ -1,0 +1,43 @@
+/* .calculator {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: blanchedalmond;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.calculator .operations_block button {
+    height: 40px;
+    width: 40px;
+    margin: 20px;
+}
+
+.inputs_block .input_block  {
+    display: inline-block;
+    padding: 10px;
+}
+
+.inputs_block .input_block label {
+    display: block;
+} */
+
+.innerText {
+    position: relative;
+    width: 500px;
+}
+
+.remove_button {
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    font-size: 110%;
+    position: absolute;
+    top: 0;
+    right: 10px;
+    display: block;
+}
+
+.wrapper {
+    position: relative;
+}
